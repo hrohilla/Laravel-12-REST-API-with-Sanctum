@@ -27,10 +27,15 @@ API testing with Postman or Thunder Client
 **Requirements**
 
 PHP 8.2 or higher
+
 Composer
+
 Laravel 12
+
 MySQL
+
 Node.js and NPM
+
 Postman or Thunder Client
 
 **Tutorial**
